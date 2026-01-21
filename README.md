@@ -19,18 +19,6 @@ O projeto foi desenvolvido como parte do **Bootcamp de Análise de Dados da Gene
 
 ---
 
-## 📂 Estrutura do repositório
-
-```
-/analise-filmes-powerbi
- ├── dados_filmes_tratados.csv
- ├── dashboard_filmes.pbix
- ├── dashboard_filmes.png
- └── README.md
-```
-
----
-
 ## 🧹 Tratamento e preparação dos dados
 
 No **Excel**, foram realizadas as seguintes etapas:
